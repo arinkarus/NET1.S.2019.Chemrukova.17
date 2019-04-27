@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NET1.S.2019.Chemrukova.17")]
+[assembly: AssemblyTitle("WeatherStationViaEvent")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("DNA Project")]
-[assembly: AssemblyProduct("NET1.S.2019.Chemrukova.17")]
+[assembly: AssemblyProduct("WeatherStationViaEvent")]
 [assembly: AssemblyCopyright("Copyright © DNA Project 2019")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("53bfeb50-c762-45d2-8cc9-42c76600444b")]
+[assembly: Guid("72102161-e94e-4480-a541-eb282e165813")]
 
 // Version information for an assembly consists of the following four values:
 //
