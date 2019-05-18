@@ -13,3 +13,12 @@
   Продемонстрировать работу класса в консольном приложении.
 
 3. Долги!
+
+
+## Реализация (Done)
+1. - [Через интерфейсы](https://github.com/arinkarus/NET1.S.2019.Chemrukova.17/tree/master/WeatherStationViaInterfaces)
+   - [Консольное приложение ч/з интерфейсы](https://github.com/arinkarus/NET1.S.2019.Chemrukova.17/tree/master/WeatherStationViaInterfaces.Console)
+   - [Через события](https://github.com/arinkarus/NET1.S.2019.Chemrukova.17/tree/master/WeatherStationViaEvent)
+   - [Констольные приложение ч/з события](https://github.com/arinkarus/NET1.S.2019.Chemrukova.17/tree/master/WeatherStationViaEvent.Console)
+2. - [Таймер](https://github.com/arinkarus/NET1.S.2019.Chemrukova.17/tree/master/Timer)
+   - [Консольное приложение](https://github.com/arinkarus/NET1.S.2019.Chemrukova.17/tree/master/Timer.Console)
